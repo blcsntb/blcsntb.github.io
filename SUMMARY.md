@@ -1,6 +1,6 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Swift](ios.md)
+* [Swift](swift.md)
 * [React Native](react-native.md)
 
