@@ -1,5 +1,6 @@
 # Table of contents
 
-* [About](README.md)
-* [iOS](ios.md)
+* [Introduction](README.md)
+* [Swift](ios.md)
+* [React Native](react-native.md)
 
