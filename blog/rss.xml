@@ -2,20 +2,24 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Binh.run Blog</title>
-        <link>https://infinitered.github.io/blog</link>
+        <link>https://daily.binh.run/blog</link>
         <description>Binh.run Blog</description>
-        <lastBuildDate>Fri, 12 Dec 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jan 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <language>en</language>
+        <language>vi</language>
         <item>
-            <title><![CDATA[Sample Blog Post]]></title>
-            <link>https://infinitered.github.io/blog/sample-post</link>
-            <guid>https://infinitered.github.io/blog/sample-post</guid>
-            <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Placeholder blog entry; replace with real update before publishing.]]></description>
-            <content:encoded><![CDATA[<p>Welcome to the blog! Replace this sample post with your update. Use Markdown headings, code blocks, and images from <code>static/</code> as needed.</p>]]></content:encoded>
-            <category>sample</category>
+            <title><![CDATA[Chạy bộ]]></title>
+            <link>https://daily.binh.run/blog/chay-bo</link>
+            <guid>https://daily.binh.run/blog/chay-bo</guid>
+            <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Chạy bộ là một hoạt động tốt cho sức khỏe.]]></description>
+            <content:encoded><![CDATA[<p>Chạy bộ là một hoạt động tốt cho sức khỏe. Nó giúp tăng sức khỏe tim mạch, giảm cân và cải thiện sức khỏe não bộ.</p>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="tại-sao-nên-chạy-bộ">Tại sao nên chạy bộ?<a href="https://daily.binh.run/blog/chay-bo#t%E1%BA%A1i-sao-n%C3%AAn-ch%E1%BA%A1y-b%E1%BB%99" class="hash-link" aria-label="Đường dẫn trực tiếp đến Tại sao nên chạy bộ?" title="Đường dẫn trực tiếp đến Tại sao nên chạy bộ?" translate="no">​</a></h2>
+<p>Chạy bộ là một hoạt động tốt cho sức khỏe. Nó giúp tăng sức khỏe tim mạch, giảm cân và cải thiện sức khỏe não bộ.</p>
+<h2 class="anchor anchorTargetHideOnScrollNavbar_vjPI" id="cách-chạy-bộ-hiệu-quả">Cách chạy bộ hiệu quả<a href="https://daily.binh.run/blog/chay-bo#c%C3%A1ch-ch%E1%BA%A1y-b%E1%BB%99-hi%E1%BB%87u-qu%E1%BA%A3" class="hash-link" aria-label="Đường dẫn trực tiếp đến Cách chạy bộ hiệu quả" title="Đường dẫn trực tiếp đến Cách chạy bộ hiệu quả" translate="no">​</a></h2>
+<p>Chạy bộ là một hoạt động tốt cho sức khỏe. Nó giúp tăng sức khỏe tim mạch, giảm cân và cải thiện sức khỏe não bộ.</p>]]></content:encoded>
+            <category>run</category>
         </item>
     </channel>
 </rss>
