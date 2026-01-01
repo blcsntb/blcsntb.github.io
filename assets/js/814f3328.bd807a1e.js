@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkbinh_run=globalThis.webpackChunkbinh_run||[]).push([[7472],{5513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Ch\u1ea1y b\u1ed9","permalink":"/blog/2026/01/05/chay-bo","unlisted":false,"date":"2026-01-05T00:00:00.000Z"}]}')}}]);
