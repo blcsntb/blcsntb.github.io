@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkbinh_run=globalThis.webpackChunkbinh_run||[]).push([[8121],{8070(l){l.exports=JSON.parse('{"tags":[{"label":"Cycling","permalink":"/blog/tags/cycling","count":1},{"label":"MorningRoutine","permalink":"/blog/tags/morning-routine","count":1},{"label":"FutureAthlete","permalink":"/blog/tags/future-athlete","count":1}]}')}}]);

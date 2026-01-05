@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkbinh_run=globalThis.webpackChunkbinh_run||[]).push([[5430],{2185(n){n.exports=JSON.parse('{"tags":[{"label":"run","permalink":"/en/blog/tags/run","count":1}]}')}}]);
