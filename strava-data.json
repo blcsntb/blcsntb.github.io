@@ -7,6 +7,70 @@
   },
   "activities": [
     {
+      "id": 17255255527,
+      "type": "Run",
+      "name": "Morning Run",
+      "distance": "3.0 km",
+      "distanceMeters": 3012,
+      "duration": "17:21",
+      "durationSeconds": 1041,
+      "pace": "5:45/km",
+      "date": "2026-02-01T22:35:50Z",
+      "elevation": "+2m",
+      "location": "N/A",
+      "athlete": "Bình Nguyễn",
+      "map": {
+        "id": "a17255255527",
+        "summary_polyline": null,
+        "polyline": "uyy`ActzjSRn@DFB@PCr@STIBGm@kBI[EGCAq@HIVUTAB?^@NNNVz@JDR?z@QPQIe@e@yAKUGGSBa@NGVUNA^@NNTRp@HLH@JAz@UPI@OG_@QY[mACCIEg@HIDEVWTC\\@NRXXx@FBPAbAOFIDIEYK[Wk@Qm@IKq@LCFETMDGHAX@RT^Nd@LJRC|@SJG@GAGs@aCKIk@JGDETSNEFAZ@NTZHVR\\V?`@M\\GFEBCAIEWMSc@_BGGU@WHEFEPUNADEh@R^Vp@FFX@TCj@MDE@OEUa@oAKg@EGECK?a@JGDGVOHEJA^BNRZFZFNFFZDTA\\IRM@YIc@i@aBKKIA]JMHERQHCHAj@Vf@FXFNHFJ@PAz@WFG?EG_@Su@Yy@IGMAc@LIXUPCN?XBJVZVr@RBJ?d@GRIDI@U[{@WiAIKIA]HKDIXSNCp@TZRn@DDHBN?l@KXO",
+        "resource_state": 3
+      },
+      "polyline": "uyy`ActzjSRn@DFB@PCr@STIBGm@kBI[EGCAq@HIVUTAB?^@NNNVz@JDR?z@QPQIe@e@yAKUGGSBa@NGVUNA^@NNTRp@HLH@JAz@UPI@OG_@QY[mACCIEg@HIDEVWTC\\@NRXXx@FBPAbAOFIDIEYK[Wk@Qm@IKq@LCFETMDGHAX@RT^Nd@LJRC|@SJG@GAGs@aCKIk@JGDETSNEFAZ@NTZHVR\\V?`@M\\GFEBCAIEWMSc@_BGGU@WHEFEPUNADEh@R^Vp@FFX@TCj@MDE@OEUa@oAKg@EGECK?a@JGDGVOHEJA^BNRZFZFNFFZDTA\\IRM@YIc@i@aBKKIA]JMHERQHCHAj@Vf@FXFNHFJ@PAz@WFG?EG_@Su@Yy@IGMAc@LIXUPCN?XBJVZVr@RBJ?d@GRIDI@U[{@WiAIKIA]HKDIXSNCp@TZRn@DDHBN?l@KXO",
+      "photos": [
+        {
+          "media_type": null,
+          "caption": null
+        }
+      ],
+      "start_latlng": [],
+      "end_latlng": []
+    },
+    {
+      "id": 17243529437,
+      "type": "Run",
+      "name": "Morning Run",
+      "distance": "6.8 km",
+      "distanceMeters": 6784.6,
+      "duration": "35:47",
+      "durationSeconds": 2147,
+      "pace": "5:16/km",
+      "date": "2026-01-31T22:31:50Z",
+      "elevation": "+6m",
+      "location": "N/A",
+      "athlete": "Bình Nguyễn",
+      "map": {
+        "id": "a17243529437",
+        "summary_polyline": "eez`A_qzjSa@A_@BWAg@@{@C}@BQAy@@YCIDETARRdAJx@A\\Gx@MXGVS\\M?u@_@[ISHC^@pAADG@K@e@Gs@WWMq@OQDSTIBMJI?MGSUIEWLK?c@Oi@WYGSIQCaAi@c@MWSoAg@YEm@WyAu@UIMIi@Q_A_@QK[KwAs@cC_Ag@UiBm@c@Qi@Os@_@EIm@_@OSc@YmAm@SMYM[W[Ue@QOES@o@HUJ_AbA_BtAa@f@{AlAYZ}AtAwAfAwAtA_@VWZa@T[\\CN@Jn@pA?`ALl@EvABd@EzA@v@Ej@CfDCZ?VCl@AjA@^CN@l@IvB?vBGfB@\\EZG\\GLMRe@h@ITCZDn@Of@SXUp@ONWn@IJcAtBIJEPsApCeAtBKXSZ_@~@}@fBWr@q@|Aa@bBSjAAb@NvA`@xAd@v@h@xA~@nBj@bBPTNd@bDtGv@rAlAdB^x@~AnC\\t@HRNVVl@JXH^Tr@LT@FX\\JBTArAWlA[h@Id@Od@Gz@Wl@EPIfAOPKb@KNGT?HhAP`AHfATnADf@BFdAzIFZELGFyAPS@_ARc@Be@\\j@Kp@CfBUz@[JM?QGg@Ci@Iw@IwAOoAOs@E[@SE_@Om@KqAEo@EYWcA?GBCb@ITAr@Q",
+        "polyline": "yyy`AotzjSGCIBGFILCVCdAAJC@u@Ak@GcBE_@Cc@DqAE_@BWAg@@{@Ca@Bm@Ay@@YCE@GHCb@RdAJx@A\\Gx@MXGVS\\M?u@_@[ISHC^@pAADG@K@e@Gs@WWMq@OQDSTIBMJI?MGSUIEWLK?c@Oi@WYGSIQCaAi@c@MWSoAg@YEm@WyAu@UIMIi@Q_A_@QK[KwAs@cC_Ag@UiBm@c@Qi@Os@_@EIm@_@OSc@YmAm@SMYM[W[Ue@QOES@o@HUJ_AbA_BtAa@f@{AlAYZ}AtAwAfAwAtA_@VWZa@TURGL?Vn@pA?`ALl@EvABd@EzA@v@Ej@CfDCZ?VCl@AjA@^CN@l@IvB?vBGfB@\\EZG\\GLMRe@h@ITCZDn@Of@SXUp@ONWn@IJcAtBIJEPsApCeAtBKXSZ_@~@}@fBWr@q@|Aa@bBSjA?l@Fb@Dh@FVX`Ad@v@h@xAf@bAb@~@H`@Tl@PTNd@bDtGv@rAlAdB^x@~AnC\\t@HRNVVl@JXH^Tr@LT@FX\\JBTArAWlA[h@Id@Od@Gz@Wl@EPIfAOPKb@KNGT?HhAP`AHfATnADf@BFdAzIFZELGFyAPS@_ARc@Be@\\j@Kp@CfBUz@[HG@KIgAAUIw@IwAOoAOs@E[@SE_@Om@KqAEo@EYWcA@Kd@ITAXKfASb@OpE_A\\KH?FDBH?t@@HDHJBh@F\\Nt@h@fAp@",
+        "resource_state": 3
+      },
+      "polyline": "yyy`AotzjSGCIBGFILCVCdAAJC@u@Ak@GcBE_@Cc@DqAE_@BWAg@@{@Ca@Bm@Ay@@YCE@GHCb@RdAJx@A\\Gx@MXGVS\\M?u@_@[ISHC^@pAADG@K@e@Gs@WWMq@OQDSTIBMJI?MGSUIEWLK?c@Oi@WYGSIQCaAi@c@MWSoAg@YEm@WyAu@UIMIi@Q_A_@QK[KwAs@cC_Ag@UiBm@c@Qi@Os@_@EIm@_@OSc@YmAm@SMYM[W[Ue@QOES@o@HUJ_AbA_BtAa@f@{AlAYZ}AtAwAfAwAtA_@VWZa@TURGL?Vn@pA?`ALl@EvABd@EzA@v@Ej@CfDCZ?VCl@AjA@^CN@l@IvB?vBGfB@\\EZG\\GLMRe@h@ITCZDn@Of@SXUp@ONWn@IJcAtBIJEPsApCeAtBKXSZ_@~@}@fBWr@q@|Aa@bBSjA?l@Fb@Dh@FVX`Ad@v@h@xAf@bAb@~@H`@Tl@PTNd@bDtGv@rAlAdB^x@~AnC\\t@HRNVVl@JXH^Tr@LT@FX\\JBTArAWlA[h@Id@Od@Gz@Wl@EPIfAOPKb@KNGT?HhAP`AHfATnADf@BFdAzIFZELGFyAPS@_ARc@Be@\\j@Kp@CfBUz@[HG@KIgAAUIw@IwAOoAOs@E[@SE_@Om@KqAEo@EYWcA@Kd@ITAXKfASb@OpE_A\\KH?FDBH?t@@HDHJBh@F\\Nt@h@fAp@",
+      "photos": [
+        {
+          "media_type": null,
+          "caption": null
+        }
+      ],
+      "start_latlng": [
+        10.787013,
+        106.801528
+      ],
+      "end_latlng": [
+        10.79721,
+        106.778637
+      ]
+    },
+    {
       "id": 17232435456,
       "type": "Run",
       "name": "Morning Run",
@@ -10432,29 +10496,29 @@
   ],
   "stats": {
     "week": {
-      "distance": "38.1",
-      "distanceMeters": 38125.6,
-      "movingTime": "3:26:35",
-      "movingTimeSeconds": 12395,
-      "runCount": 6,
-      "activities": 6
+      "distance": "3.0",
+      "distanceMeters": 3012,
+      "movingTime": "17:21",
+      "movingTimeSeconds": 1041,
+      "runCount": 1,
+      "activities": 1
     },
     "month": {
-      "distance": "193.3",
-      "distanceMeters": 193326.9,
-      "movingTime": "17:47:57",
-      "movingTimeSeconds": 64077,
-      "runCount": 31,
-      "activities": 32
+      "distance": "9.8",
+      "distanceMeters": 9796.6,
+      "movingTime": "53:08",
+      "movingTimeSeconds": 3188,
+      "runCount": 2,
+      "activities": 2
     },
     "year": {
-      "distance": "193.3",
-      "distanceMeters": 193326.9,
-      "movingTime": "17:47:57",
-      "movingTimeSeconds": 64077,
-      "runCount": 31,
-      "activities": 32
+      "distance": "203.1",
+      "distanceMeters": 203123.49999999997,
+      "movingTime": "18:41:05",
+      "movingTimeSeconds": 67265,
+      "runCount": 33,
+      "activities": 34
     }
   },
-  "lastUpdated": "2026-01-31T11:54:34.492Z"
+  "lastUpdated": "2026-02-02T22:12:52.470Z"
 }
