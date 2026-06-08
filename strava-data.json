@@ -7,6 +7,354 @@
   },
   "activities": [
     {
+      "id": 18830664705,
+      "type": "Run",
+      "name": "Mon 🛞 195 ❤️‍🔥 151 🔥 242 🎯 4.01/42km Week 24 • Easy",
+      "distance": "4.0 km",
+      "distanceMeters": 4013.6,
+      "duration": "23:25",
+      "durationSeconds": 1405,
+      "pace": "5:50/km",
+      "date": "2026-06-07T22:40:17Z",
+      "elevation": "+3m",
+      "location": "N/A",
+      "athlete": "Bình Nguyễn Trọng",
+      "map": {
+        "id": "a18830664705",
+        "summary_polyline": "mxy`A_pzjSf@Bz@A`ADZD~BBH@PJFPF~@?\\BPAH}@`@s@`@KLCHBLv@`Bl@bABPGN_@Rw@j@ITO~BGp@GvAUjCCd@SfB?ZBNNHPFbAF`@FP?~@Jl@Bz@JdAFv@Jh@@ND~CTbALbDPz@Lp@@`@HbAFN?LGHMD[H}@@[PcB?c@BIFGHCvANT@NCHOAy@MyACaA\\kEAQEOYKqAKaAE}@IME[BOTS|BINKBqCSUICGAOPsBGYUM{Ea@i@CeBQy@CoBSc@Bi@XSBIEIM_AgB]g@CS?EDC`B{@RU@]Aa@Gc@?_@CGSQMCyACk@Ik@A",
+        "polyline": "_{y`A}szjS?r@Ep@HL\\Db@?^DnA?`ADZD~BBH@PJFPF~@?\\BPAH}@`@s@`@KLCHBLv@`Bl@bABPGN_@Rw@j@ITO~BGp@GvAUjCCd@SfB?ZBNNHPFbAF`@FP?~@Jl@Bz@JdAFv@Jh@@ND~CTbALbDPz@Lp@@`@H~@FR?LGHMD[H}@@[PcB?c@BIFGHCvANT@NCHOAy@MyACaA\\kEAQEOYKqAKaAE}@IME[BOTS|BINKBqCSUICGAOPsBGYUM{Ea@i@CeBQy@CoBSc@Bm@ZI@KAMQ_AgB]g@CS?EDC`B{@RU@OAo@Gc@?_@EMQKSEsAAk@I[?mAGaA?}@GO@K?EEAKNu@@OH[BoALI?QHIb@OH@HNTdAZ|@EJWJu@LIACCQo@OUCQ@g@NI?OBIb@OHCDBHPDTd@vA",
+        "resource_state": 3
+      },
+      "polyline": "_{y`A}szjS?r@Ep@HL\\Db@?^DnA?`ADZD~BBH@PJFPF~@?\\BPAH}@`@s@`@KLCHBLv@`Bl@bABPGN_@Rw@j@ITO~BGp@GvAUjCCd@SfB?ZBNNHPFbAF`@FP?~@Jl@Bz@JdAFv@Jh@@ND~CTbALbDPz@Lp@@`@H~@FR?LGHMD[H}@@[PcB?c@BIFGHCvANT@NCHOAy@MyACaA\\kEAQEOYKqAKaAE}@IME[BOTS|BINKBqCSUICGAOPsBGYUM{Ea@i@CeBQy@CoBSc@Bm@ZI@KAMQ_AgB]g@CS?EDC`B{@RU@OAo@Gc@?_@EMQKSEsAAk@I[?mAGaA?}@GO@K?EEAKNu@@OH[BoALI?QHIb@OH@HNTdAZ|@EJWJu@LIACCQo@OUCQ@g@NI?OBIb@OHCDBHPDTd@vA",
+      "photos": [
+        {
+          "unique_id": "6A401EEB-9EAB-4BFE-B60A-B6DFBDA6648A",
+          "urls": {
+            "100": "https://dgtzuqphqg23d.cloudfront.net/ksj5INCmFqL1_-DppEkosTMceJD3HhKOarvWznj7Y3A-96x128.jpg",
+            "600": "https://dgtzuqphqg23d.cloudfront.net/ksj5INCmFqL1_-DppEkosTMceJD3HhKOarvWznj7Y3A-576x768.jpg"
+          },
+          "source": 1,
+          "media_type": 1,
+          "caption": null
+        }
+      ],
+      "start_latlng": [
+        10.787201,
+        106.801439
+      ],
+      "end_latlng": [
+        10.786436,
+        106.80147
+      ],
+      "average_heartrate": 150.6,
+      "average_cadence": 97.6,
+      "average_watts": 198
+    },
+    {
+      "id": 18816612718,
+      "type": "Run",
+      "name": "Sun 🛞 175 ❤️‍🔥 135 🔥 282 🎯 51.54/42km Week 23 • Easy",
+      "distance": "4.8 km",
+      "distanceMeters": 4787.5,
+      "duration": "34:09",
+      "durationSeconds": 2049,
+      "pace": "7:07/km",
+      "date": "2026-06-06T23:12:20Z",
+      "elevation": "+4m",
+      "location": "N/A",
+      "athlete": "Bình Nguyễn Trọng",
+      "map": {
+        "id": "a18816612718",
+        "summary_polyline": null,
+        "polyline": "ezy`AstzjSPVHf@DFFDH@HCf@W\\EHGBIAGi@kAOo@MKI?SDYLKd@Cr@@LFJPn@DFDBPAl@UXGJI?Kk@wAMg@GIGCo@NEDAPGPC`@@TX~@HJL@d@OZETIDIGWO]_@kACIOIEAe@LKHOx@@`@R`@Hd@FFH@LCj@SXCHK?IKWIa@KMYcAGGYF]LERUTCRDX\\r@FXJFL?ZOTGTCJGBGAIm@oBIOOKc@JMHETQHCFA`@BHR\\Rr@HBTCt@UTI?QGQMQQi@CUMWIMK?i@PGVUPAP@ZRXPn@JNVEb@M\\ELG?MGW]q@[}@IKC?g@LEBCTSRCj@R\\Vp@HFR?LIj@KTI@GMa@GMi@wAKOGDB?DC@BP`Ah@lA?DEFSBu@TI?CCQ}@@ELGBQW_ADGf@QF?BBTlA\\x@BNCBcAPMFCAKUEU?OLM?YO{@DG\\G@CC?HCQFO?ABIBEH@LNp@AJMNAF@NFRLTNB`@GTKTCHIMi@QWE]Sa@GQGEo@NGZUCGBCF?TDp@FBJEFBPh@FPHDTGp@EVKC[MUKc@O[Me@KMK?c@HEBETKHGJAb@FNPTPl@BFDBN?\\O`@GLIDKCK]y@]eAGEK?i@NCRMJIJ?ZDRRZHRDVNLRCJIj@KNKAO_@eASaAEEGAOFYBIDEFAPSTA^BPLLVt@BFHBJ@d@S`@GHEBG]aAGYEGCOGSQQSDLAG?DCB@BBBHBGAEK?_@FIBEDCPQVCVDZZj@J`@FDJAdA[LGM}@_@u@GG?C@BCA?MGMGAa@DQPGV@B@UFIr@UA?BR\\|@I@w@S",
+        "resource_state": 3
+      },
+      "polyline": "ezy`AstzjSPVHf@DFFDH@HCf@W\\EHGBIAGi@kAOo@MKI?SDYLKd@Cr@@LFJPn@DFDBPAl@UXGJI?Kk@wAMg@GIGCo@NEDAPGPC`@@TX~@HJL@d@OZETIDIGWO]_@kACIOIEAe@LKHOx@@`@R`@Hd@FFH@LCj@SXCHK?IKWIa@KMYcAGGYF]LERUTCRDX\\r@FXJFL?ZOTGTCJGBGAIm@oBIOOKc@JMHETQHCFA`@BHR\\Rr@HBTCt@UTI?QGQMQQi@CUMWIMK?i@PGVUPAP@ZRXPn@JNVEb@M\\ELG?MGW]q@[}@IKC?g@LEBCTSRCj@R\\Vp@HFR?LIj@KTI@GMa@GMi@wAKOGDB?DC@BP`Ah@lA?DEFSBu@TI?CCQ}@@ELGBQW_ADGf@QF?BBTlA\\x@BNCBcAPMFCAKUEU?OLM?YO{@DG\\G@CC?HCQFO?ABIBEH@LNp@AJMNAF@NFRLTNB`@GTKTCHIMi@QWE]Sa@GQGEo@NGZUCGBCF?TDp@FBJEFBPh@FPHDTGp@EVKC[MUKc@O[Me@KMK?c@HEBETKHGJAb@FNPTPl@BFDBN?\\O`@GLIDKCK]y@]eAGEK?i@NCRMJIJ?ZDRRZHRDVNLRCJIj@KNKAO_@eASaAEEGAOFYBIDEFAPSTA^BPLLVt@BFHBJ@d@S`@GHEBG]aAGYEGCOGSQQSDLAG?DCB@BBBHBGAEK?_@FIBEDCPQVCVDZZj@J`@FDJAdA[LGM}@_@u@GG?C@BCA?MGMGAa@DQPGV@B@UFIr@UA?BR\\|@I@w@S",
+      "photos": [
+        {
+          "unique_id": "BCE504AD-3493-43B7-A064-06CF3C23C921",
+          "urls": {
+            "100": "https://d35tn3x5zm6xrc.cloudfront.net/Z6rAjeCUabxRzQNoeqxE-WUo9zlqsVFsxFaW0HpFCGw/thumbnails/Z6rAjeCUabxRzQNoeqxE-WUo9zlqsVFsxFaW0HpFCGw_600x600.jpg",
+            "600": "https://d35tn3x5zm6xrc.cloudfront.net/Z6rAjeCUabxRzQNoeqxE-WUo9zlqsVFsxFaW0HpFCGw/thumbnails/Z6rAjeCUabxRzQNoeqxE-WUo9zlqsVFsxFaW0HpFCGw_600x600.jpg"
+          },
+          "source": 1,
+          "media_type": 2,
+          "caption": null
+        }
+      ],
+      "start_latlng": [],
+      "end_latlng": [],
+      "average_heartrate": 135.2,
+      "average_cadence": 87.7,
+      "average_watts": 172
+    },
+    {
+      "id": 18803126332,
+      "type": "Run",
+      "name": "Sat 🛞 174 ❤️‍🔥 161 🔥 983 🎯 46.75/42km Week 23 • Long Run",
+      "distance": "17.0 km",
+      "distanceMeters": 17008.5,
+      "duration": "1:29:51",
+      "durationSeconds": 5391,
+      "pace": "5:16/km",
+      "date": "2026-06-05T22:20:28Z",
+      "elevation": "+49m",
+      "location": "N/A",
+      "athlete": "Bình Nguyễn Trọng",
+      "map": {
+        "id": "a18803126332",
+        "summary_polyline": "uez`AaqzjSwABe@CmAFo@EkB?wAHa@AOFMb@FdBAh@DtA?h@F~@?r@GJNrBDtCDh@@pADZAzDHlABl@A\\J|BC|@BXCNDb@AlAEZ]hAC^BPFBHV^x@DZFhBNfBJnJDnADNA\\DfACh@PnI@fBDVBp@LfIFpA@jABN?dBH~AGJG@{@EoA@yBEqBAm@D}@N[JoAJa@NmCh@_@RGN@PVxBPnCNz@HdAJd@H|@`@jC@b@O~CMZFD@VKrACv@?~BV~CNp@^hCSd@iBDSCUPER@p@KLQBoBBWHILA~AHhDA`@DbAAfADbB@zCBzAAVf@~P^zF`@tEZlDXhAJtBZtB~@tFTt@TjAJhABHNRZfALv@^`BLx@ZhA^bAVjAf@|Af@fBrApDDTf@xAFJF?Dl@d@bAPh@R`@H\\Tf@\\b@`@XzBZd@?dCb@f@TzAb@|A|@NLTJNLf@TLPd@VjAlAP\\hBbCP`@^p@dBbEp@lAPd@CVB?n@zAAGr@hB`@x@tAxDn@hAPt@j@jA`@hAz@bB`AjCdC~Fh@vAd@hAFFD?X`A`B|DNb@Bb@`AzBRRZl@nCtGV^Z~@Fl@R`@j@jB`@p@lAtC|BzFHXLNPD^x@dBlEf@`Av@tBJJN?pBs@lAQd@ELDLR\\VJPHb@r@xAPd@\\n@h@zAVnBRv@rAlDr@~ARp@Vn@d@n@VT`@Rt@?|@KvAc@nB}@l@]`C{@P?n@xATJL?rD_BbA_@ZQd@Ol@?XB\\LVPh@r@RNlDqA|@QzAOp@Td@JRJJn@PhCHbE?rBQ~Fe@tFu@pEu@dDs@zB}@vBo@dBMb@?`@F`@RVdBbAnFjCPNBJ?JeDfGuBdEaA|A}DxDm@^mA`AaCrAa@ZqB|@wDt@]J@HHDTD~@SrAc@fEkBnAq@~B{AzAqAv@w@Xc@nAuApAuB|@kBp@iAhCcFD]ISiAm@I@CF@DVPZJLNBJCLo@nAITu@nAgDxGcAzAq@p@W^gBbBs@`@UVs@d@wDxBwB`Ai@DWIONKAKo@EIc@g@YSEKGWO}AMc@C[]o@UIIDCHCf@?X|@lILDPAb@OLMy@d@yAh@o@NwEj@mCNcABkDEq@IS@{BQ{BIoBYmE_Ae@@SLUVKDM?{Aa@mAe@",
+        "polyline": "kzy`AwtzjSEBKZCVAbA?BGBkEMe@@qAA}ABe@CmAFo@EE@_@Ca@Bc@AwAHg@?IDK\\A\\BRAf@DP@bB@Z?h@F~@?n@?FGFLvABxAB`@?t@Dh@@pADZCZBb@AzBLzBA\\Dn@DlAC|@BXCTD\\?z@Eb@]lAEd@BPFBHVXf@DPDZFhBNfBDnD@\\?r@BdA?f@DnADNA\\DfACh@PnI@fBDVBp@LfIFpA@jABN?dBH~AGJG@{@EoA@yBE_@@qACm@D}@N[JoAJa@NmATa@L]DKHSHGN@PVxBPnCNz@HdAJd@H|@Jl@J|@H^@b@Gr@GjBMZD@@B@VKrACv@?~BHtALhANp@TdBHb@Sd@i@?c@D[?SCUPER@p@KLQBiA?e@BWHILA~AHhDA`@DbAAfADbBA^D~AAZBzAAVJvC@dAJpC@jAJrB?NTxDTtCLhANlBR`B?TXhADfAFp@PdAJ|@h@vCPjATt@TjAH~@DRNRZfALv@^`BLx@ZhA^bAPl@D\\f@|Af@fBhA|CHRDTf@xAFJF??VDTd@bAPh@R`@H\\Tf@\\b@`@Xt@Hh@LZBd@?`B\\b@Df@T`@HXL^J|A|@NLTJNLf@TLPd@V|@`ALJP\\`AlAf@t@P`@^p@v@nBLT^|@p@lAPd@CVB?Vp@Vh@?AAG?@r@hB`@x@tAxDn@hAPt@Rd@Vd@`@hA\\j@\\v@`AjCdC~Fh@vAd@hAFFD?Rj@DTLVp@hB`@z@Nb@?VBJ`AzBRRZl@nCtGV^HZPb@@ZDPR`@j@jBTd@JJx@rBR`@FTb@fATb@z@xBHXLNPD^x@dBlEf@`Av@tBJJN?pBs@lAQd@ELDLR\\VJPHb@r@xAPd@\\n@h@zAFr@Nz@Rv@n@|Ab@nAr@~ARp@Vn@d@n@VTNJPFt@?|@Kp@QVOLAnB}@l@]|@Yv@_@JAPA?@`@bALTTJL?XIb@Wd@QnAk@bA_@ZQd@OVAT@XB\\LVPh@r@RNxB{@r@U|@QzAOp@Tn@NJNHf@TzDDvD?lACbAMzDe@tFu@pEu@dDs@zBq@bBKRo@dBMb@?`@@VDHRVdBbA`@PhB`At@Zl@ZPNBJ?JMX[f@Q^iBdDuBdEaA|A{@z@c@^WZeA`Am@^mA`AaCrAa@ZqB|@}@T_BVw@RBL\\F~@SrAc@v@a@f@QbAc@rBeAVS`BeA`BsAv@w@Xc@nAuA|@uApAkCp@iAhCcFFUAGISm@W[UI@CF@DVP^NHJBJCLo@nAITu@nAgDxGSVUb@a@h@i@f@W^gBbBs@`@UVs@d@wDxBwB`Ai@DMGIAE@ILI?CEIk@EIc@g@YSEKGWEo@Im@Mc@C[c@s@IEE?IDGp@?XNbAl@hGLDPAb@OLMy@d@_Bj@i@LwEj@mCNcABs@As@CcA?q@IS@WEcBK{BIaAMwA[s@KeBc@SA[BGBa@`@KDM?{Aa@u@]sCcAQU?m@d@oA",
+        "resource_state": 3
+      },
+      "polyline": "kzy`AwtzjSEBKZCVAbA?BGBkEMe@@qAA}ABe@CmAFo@EE@_@Ca@Bc@AwAHg@?IDK\\A\\BRAf@DP@bB@Z?h@F~@?n@?FGFLvABxAB`@?t@Dh@@pADZCZBb@AzBLzBA\\Dn@DlAC|@BXCTD\\?z@Eb@]lAEd@BPFBHVXf@DPDZFhBNfBDnD@\\?r@BdA?f@DnADNA\\DfACh@PnI@fBDVBp@LfIFpA@jABN?dBH~AGJG@{@EoA@yBE_@@qACm@D}@N[JoAJa@NmATa@L]DKHSHGN@PVxBPnCNz@HdAJd@H|@Jl@J|@H^@b@Gr@GjBMZD@@B@VKrACv@?~BHtALhANp@TdBHb@Sd@i@?c@D[?SCUPER@p@KLQBiA?e@BWHILA~AHhDA`@DbAAfADbBA^D~AAZBzAAVJvC@dAJpC@jAJrB?NTxDTtCLhANlBR`B?TXhADfAFp@PdAJ|@h@vCPjATt@TjAH~@DRNRZfALv@^`BLx@ZhA^bAPl@D\\f@|Af@fBhA|CHRDTf@xAFJF??VDTd@bAPh@R`@H\\Tf@\\b@`@Xt@Hh@LZBd@?`B\\b@Df@T`@HXL^J|A|@NLTJNLf@TLPd@V|@`ALJP\\`AlAf@t@P`@^p@v@nBLT^|@p@lAPd@CVB?Vp@Vh@?AAG?@r@hB`@x@tAxDn@hAPt@Rd@Vd@`@hA\\j@\\v@`AjCdC~Fh@vAd@hAFFD?Rj@DTLVp@hB`@z@Nb@?VBJ`AzBRRZl@nCtGV^HZPb@@ZDPR`@j@jBTd@JJx@rBR`@FTb@fATb@z@xBHXLNPD^x@dBlEf@`Av@tBJJN?pBs@lAQd@ELDLR\\VJPHb@r@xAPd@\\n@h@zAFr@Nz@Rv@n@|Ab@nAr@~ARp@Vn@d@n@VTNJPFt@?|@Kp@QVOLAnB}@l@]|@Yv@_@JAPA?@`@bALTTJL?XIb@Wd@QnAk@bA_@ZQd@OVAT@XB\\LVPh@r@RNxB{@r@U|@QzAOp@Tn@NJNHf@TzDDvD?lACbAMzDe@tFu@pEu@dDs@zBq@bBKRo@dBMb@?`@@VDHRVdBbA`@PhB`At@Zl@ZPNBJ?JMX[f@Q^iBdDuBdEaA|A{@z@c@^WZeA`Am@^mA`AaCrAa@ZqB|@}@T_BVw@RBL\\F~@SrAc@v@a@f@QbAc@rBeAVS`BeA`BsAv@w@Xc@nAuA|@uApAkCp@iAhCcFFUAGISm@W[UI@CF@DVP^NHJBJCLo@nAITu@nAgDxGSVUb@a@h@i@f@W^gBbBs@`@UVs@d@wDxBwB`Ai@DMGIAE@ILI?CEIk@EIc@g@YSEKGWEo@Im@Mc@C[c@s@IEE?IDGp@?XNbAl@hGLDPAb@OLMy@d@_Bj@i@LwEj@mCNcABs@As@CcA?q@IS@WEcBK{BIaAMwA[s@KeBc@SA[BGBa@`@KDM?{Aa@u@]sCcAQU?m@d@oA",
+      "photos": [
+        {
+          "unique_id": "2E9E8554-D7BC-40D7-B251-E3516A5ADE4C",
+          "urls": {
+            "100": "https://dgtzuqphqg23d.cloudfront.net/fK-tyrH34huObJ7OV98c-3MJ-DCx-Qs9zMKuxqgnLSU-128x96.jpg",
+            "600": "https://dgtzuqphqg23d.cloudfront.net/fK-tyrH34huObJ7OV98c-3MJ-DCx-Qs9zMKuxqgnLSU-768x576.jpg"
+          },
+          "source": 1,
+          "media_type": 1,
+          "caption": null
+        }
+      ],
+      "start_latlng": [
+        10.7871,
+        106.801565
+      ],
+      "end_latlng": [
+        10.779078,
+        106.711751
+      ],
+      "average_heartrate": 161.4,
+      "average_cadence": 86.9,
+      "average_watts": 237.4
+    },
+    {
+      "id": 18790247832,
+      "type": "Run",
+      "name": "Fri 🛞 172 ❤️‍🔥 146 🔥 231 🎯 29.75/42km Week 23 • Progression Run",
+      "distance": "4.0 km",
+      "distanceMeters": 4008.2,
+      "duration": "23:18",
+      "durationSeconds": 1398,
+      "pace": "5:48/km",
+      "date": "2026-06-04T22:39:34Z",
+      "elevation": "+2m",
+      "location": "N/A",
+      "athlete": "Bình Nguyễn Trọng",
+      "map": {
+        "id": "a18790247832",
+        "summary_polyline": "qxy`AapzjS~@?`BH^?ZBRA`@LZAp@FDHFz@A\\D`@CLGFmBdAIJ@HXj@PV\\r@NPP\\BLCLyA~@EDCFs@`KI\\Ah@SlB?ZHNRD|@JfBL|@LT?tAN`@@VDrAJLD^Ab@Df@Fz@FTDhABbAJfAFv@Hr@DPDfAHNAJGHUJkBP}ABi@BIFGHAV@n@Jh@BNGDG?QKkAIsBFiAHi@JiBGUKG[Ik@CUG}AIo@IY@KDILM`BIf@GFY?wBO]IEIAIHq@@i@Dc@COGGIEaAKk@CkD[iAGk@O[BWA_BOW?IBm@\\MCGEMSg@cAm@aAAK?IDG|A}@RQ@u@Ce@?e@ESQKUEeA?gCOmACI@gBI?CFe@DMB[FeA?gACaAEIGBAHD\\Bp@DFNJPd@CJKN?DHj@DHHFH@XKt@MDCBIK[",
+        "polyline": "ezy`AstzjSK@EBCHGhB@FJHPB\\CLB`@Bb@A`BH^?ZBRA`@LZAp@FDHFz@A\\D`@CLGFmBdAIJ@HXj@PV\\r@NPP\\BLCLyA~@EDCFs@`KI\\Ah@SlB?ZHNRDfAL|AJ|@LT?tAN`@@VDrAJLD^Ab@Df@Fz@FTDhABbAJfAFv@Hr@DPDfAHNAJGHUJkBP}ABi@BIFGHAV@n@Jh@BNGDG?QKkAIsBFiAHi@JiBGUKG[Ik@CUG}AIo@IS?QFILM`BIf@GFY?wBO]IEIAIHq@@i@Dc@COGGIEaAKk@CkD[iAGk@O[BWA_BOW?IBm@\\MCGEMSg@cAm@aAAK?IDG|A}@RQ@u@Ce@?e@ESQKUEeA?gCOmACI@gBI?CFe@DMB[FeA?gACaAEIGBAHD\\Bp@DFNJPd@CJKN?DHj@DHLHNCNGt@MDCBIY}@IQ]aACCI?[J",
+        "resource_state": 3
+      },
+      "polyline": "ezy`AstzjSK@EBCHGhB@FJHPB\\CLB`@Bb@A`BH^?ZBRA`@LZAp@FDHFz@A\\D`@CLGFmBdAIJ@HXj@PV\\r@NPP\\BLCLyA~@EDCFs@`KI\\Ah@SlB?ZHNRDfAL|AJ|@LT?tAN`@@VDrAJLD^Ab@Df@Fz@FTDhABbAJfAFv@Hr@DPDfAHNAJGHUJkBP}ABi@BIFGHAV@n@Jh@BNGDG?QKkAIsBFiAHi@JiBGUKG[Ik@CUG}AIo@IS?QFILM`BIf@GFY?wBO]IEIAIHq@@i@Dc@COGGIEaAKk@CkD[iAGk@O[BWA_BOW?IBm@\\MCGEMSg@cAm@aAAK?IDG|A}@RQ@u@Ce@?e@ESQKUEeA?gCOmACI@gBI?CFe@DMB[FeA?gACaAEIGBAHD\\Bp@DFNJPd@CJKN?DHj@DHLHNCNGt@MDCBIY}@IQ]aACCI?[J",
+      "photos": [
+        {
+          "media_type": null,
+          "caption": null
+        }
+      ],
+      "start_latlng": [
+        10.787072,
+        106.801543
+      ],
+      "end_latlng": [
+        10.786899,
+        106.802045
+      ],
+      "average_heartrate": 146.5,
+      "average_cadence": 85.9,
+      "average_watts": 215.2
+    },
+    {
+      "id": 18782396074,
+      "type": "Run",
+      "name": "Thu 🛞 177 ❤️‍🔥 167 🔥 632 🎯 25.74/42km Week 23 • Easy",
+      "distance": "11.0 km",
+      "distanceMeters": 11010.2,
+      "duration": "55:20",
+      "durationSeconds": 3320,
+      "pace": "5:01/km",
+      "date": "2026-06-04T10:36:23Z",
+      "elevation": "+23m",
+      "location": "N/A",
+      "athlete": "Bình Nguyễn Trọng",
+      "map": {
+        "id": "a18782396074",
+        "summary_polyline": "mvx`AoqijSIMc@W[YM@SDc@@k@MGFAnBJp@Zj@\\`@b@XVXZ`@d@^@\\BJDBVFL?^GXDZN\\\\RJVH\\HX?JC\\OPCp@V^BJALGV]JWRw@BSU]_@]}@g@SUQMOAaAHmAAk@Km@We@e@e@{@GYDIHOBSCWMMMCQ@s@Vi@FS?i@KK@CPAvAFh@J`@^h@x@n@p@v@b@ZBH@ZHJ\\Hj@GJ@d@P\\\\NH|@R\\A^QVCl@V^BRITUVi@Rw@@IOSo@c@c@SaAs@SAaBFs@CUGk@Yg@e@g@u@GY?KLWBa@GQKGMAK@i@Ns@Nc@Aa@KIDC\\@tAHd@Nb@\\b@|@n@`@n@f@\\FH@^@DHFXBj@EVBTJf@d@TJn@L\\?b@SJCJ@j@T`@BTITWXw@Lk@CIIG[Yk@[US[SUUQC_AHaBE[Gi@[i@i@S]Si@?KNY@QCWGISGK?q@Ti@Js@CQGK@AJAh@@t@PdAJRV\\j@`@XXX`@NNXPDH@`@FD\\Hf@GVBRFd@b@RLx@P`@?b@SRCx@ZN?ZINNLAFBBJ@LGPCIMME[GGYFY?q@WQCm@TY?k@ISGo@i@SKUCw@@BCEUBc@Lc@h@y@ROXId@CbAHpACZPJLXTD@BKTLPN`Aj@FHBRCRIVSZ{@lBQj@AL@JRZZT\\Fj@ZxBt@pAXVAHGJUJi@v@wC@IK[JNDPGd@c@~A@PJLfBh@fE|@`APrDVXJRHPGTCz@?f@Bj@AlABhAK~@AnEc@|@MtAYnAe@z@QpAa@v@_@lAg@jB_AfDyBnBcB^c@jAkAh@q@`@s@Va@tAeClCsF^m@FUAYIQ{JcFIQIe@@S\\aAhBmEn@_Cr@_Dz@gG`@}FDuA@gBBgAMoFG{@Cs@Is@EKMMc@QYISCkBTmAXcDjAmAl@u@Xc@VQBIHa@NOJsAf@u@^{@V}@`@{Bz@NER@j@F^GEKGKMCMBi@Rg@Je@RYHa@VcA^oAp@k@Rk@ZE@[UE?OJEPQTGNa@TmA`@m@H}@TSHGNqAXs@Jw@AWJYBk@EOGk@GiAGi@?_@GWB_BEOEmA?sBJcALc@JQACBDd@Bp@R|ALb@F|@j@zE^zAVt@@NLV",
+        "polyline": "aix`AyiijSOKgAaAQIBEACW[WIW@c@Ei@Aa@S][Y]S[KKm@POQc@W[YM@SDc@@k@MGFAL?`BJp@Zj@\\`@b@XVXZ`@d@^@\\BJHDRDL?^GXDZN\\\\RJVH\\HX?JC\\OPCF@h@TJBR?JALGV]JWRw@BSU]_@]}@g@SUQMOAaAHmAAYCQGm@We@e@e@{@GYDIHOBSCWMMMCQ@s@Vi@FS?i@KK@CPAvAFh@J`@^h@x@n@p@v@b@ZBH@ZHJ\\Hj@GJ@d@P\\\\NH|@R\\A^QVCl@V^BJAFGTUVi@Rw@@IOSOI_@Yc@Sw@m@IESA]BcABs@CUGk@Yg@e@g@u@GY?KLWBa@GQKGMAK@i@Ns@Nc@Aa@KIDC\\@tAHd@Nb@\\b@|@n@`@n@f@\\FH@^@DHFXBj@EVBTJf@d@TJn@L\\?b@SJCJ@j@T`@BTITWXw@Lk@CIIG[YME]UUS[SUUQC_AH_AAa@C[Gi@[i@i@S]Si@?KNY@QCWGISGK?q@Ti@J[?WCQGE?E@AJA|@@n@Pv@JRV\\j@`@XXX`@NNXPDH@`@FD\\Hf@GVBRFd@b@RLx@P`@?b@SRCx@ZN?TID?NNLAFBBJ@LGPCIMME[GGYFY?q@WQCm@TY?k@ISGo@i@SKUCq@BEABCEUBc@Lc@h@y@ROXId@CbAHpACZP\\\\LFBK@?fBhAFHBL?LCJIVSZ{@lBIRId@@JNV^X\\Fj@ZxBt@pAXJ@JCHGJUJi@v@wC@IK[JNDPGd@c@~A@PJLfBh@fE|@`APn@BbCRXJRHPGTCz@?f@Bj@AlABhAK~@AnEc@|@Mf@Ol@InAe@z@QpAa@fEmBlBgAbBkAxAoA`BeB^]h@q@`@s@Va@tAeClCsF^m@FUAYIQwE_Cq@a@i@UgAk@IQIe@@S\\aAhBmEn@_Cr@_Dz@gG`@}FDuA@gBBgAMoFG{@Cs@Is@EKGIi@UYISCkBTmAXcDjAmAl@u@Xc@VQBIHa@NOJsAf@u@^{@V}@`@{Bz@NER@ZFN?^GEKGKMCMBi@Rg@Je@RYHa@VcA^oAp@k@Rk@ZE@[UE?OJEPQTGNa@TmA`@m@H}@TSHGNqAXs@Jw@AWJYBk@EOGk@GiAGi@?_@GWB_BEOEmA?i@@iAHcALc@JS?A@Dd@Bp@R|ALb@@^LfAd@vD\\tA`@vAtArCRZnAvA@HA@QDDp@YVu@|@i@f@GL",
+        "resource_state": 3
+      },
+      "polyline": "aix`AyiijSOKgAaAQIBEACW[WIW@c@Ei@Aa@S][Y]S[KKm@POQc@W[YM@SDc@@k@MGFAL?`BJp@Zj@\\`@b@XVXZ`@d@^@\\BJHDRDL?^GXDZN\\\\RJVH\\HX?JC\\OPCF@h@TJBR?JALGV]JWRw@BSU]_@]}@g@SUQMOAaAHmAAYCQGm@We@e@e@{@GYDIHOBSCWMMMCQ@s@Vi@FS?i@KK@CPAvAFh@J`@^h@x@n@p@v@b@ZBH@ZHJ\\Hj@GJ@d@P\\\\NH|@R\\A^QVCl@V^BJAFGTUVi@Rw@@IOSOI_@Yc@Sw@m@IESA]BcABs@CUGk@Yg@e@g@u@GY?KLWBa@GQKGMAK@i@Ns@Nc@Aa@KIDC\\@tAHd@Nb@\\b@|@n@`@n@f@\\FH@^@DHFXBj@EVBTJf@d@TJn@L\\?b@SJCJ@j@T`@BTITWXw@Lk@CIIG[YME]UUS[SUUQC_AH_AAa@C[Gi@[i@i@S]Si@?KNY@QCWGISGK?q@Ti@J[?WCQGE?E@AJA|@@n@Pv@JRV\\j@`@XXX`@NNXPDH@`@FD\\Hf@GVBRFd@b@RLx@P`@?b@SRCx@ZN?TID?NNLAFBBJ@LGPCIMME[GGYFY?q@WQCm@TY?k@ISGo@i@SKUCq@BEABCEUBc@Lc@h@y@ROXId@CbAHpACZP\\\\LFBK@?fBhAFHBL?LCJIVSZ{@lBIRId@@JNV^X\\Fj@ZxBt@pAXJ@JCHGJUJi@v@wC@IK[JNDPGd@c@~A@PJLfBh@fE|@`APn@BbCRXJRHPGTCz@?f@Bj@AlABhAK~@AnEc@|@Mf@Ol@InAe@z@QpAa@fEmBlBgAbBkAxAoA`BeB^]h@q@`@s@Va@tAeClCsF^m@FUAYIQwE_Cq@a@i@UgAk@IQIe@@S\\aAhBmEn@_Cr@_Dz@gG`@}FDuA@gBBgAMoFG{@Cs@Is@EKGIi@UYISCkBTmAXcDjAmAl@u@Xc@VQBIHa@NOJsAf@u@^{@V}@`@{Bz@NER@ZFN?^GEKGKMCMBi@Rg@Je@RYHa@VcA^oAp@k@Rk@ZE@[UE?OJEPQTGNa@TmA`@m@H}@TSHGNqAXs@Jw@AWJYBk@EOGk@GiAGi@?_@GWB_BEOEmA?i@@iAHcALc@JS?A@Dd@Bp@R|ALb@@^LfAd@vD\\tA`@vAtArCRZnAvA@HA@QDDp@YVu@|@i@f@GL",
+      "photos": [
+        {
+          "unique_id": "650AC972-BE36-4B84-AC9D-123EE82B6675",
+          "urls": {
+            "100": "https://dgtzuqphqg23d.cloudfront.net/i_VWk18ITXWOy_jTTjBOV_6fI4Ku9PD3vyo_qxM7-wg-96x128.jpg",
+            "600": "https://dgtzuqphqg23d.cloudfront.net/i_VWk18ITXWOy_jTTjBOV_6fI4Ku9PD3vyo_qxM7-wg-576x768.jpg"
+          },
+          "source": 1,
+          "media_type": 1,
+          "caption": null
+        }
+      ],
+      "start_latlng": [
+        10.779211,
+        106.712779
+      ],
+      "end_latlng": [
+        10.777414,
+        106.716743
+      ],
+      "average_heartrate": 166.6,
+      "average_cadence": 88.4,
+      "average_watts": 249.8
+    },
+    {
+      "id": 18776821965,
+      "type": "Run",
+      "name": "Thu 🛞 177 ❤️‍🔥 145 🔥 240 🎯 14.73/42km Week 23 • Easy",
+      "distance": "4.1 km",
+      "distanceMeters": 4081,
+      "duration": "24:12",
+      "durationSeconds": 1452,
+      "pace": "5:55/km",
+      "date": "2026-06-03T22:44:06Z",
+      "elevation": "+3m",
+      "location": "N/A",
+      "athlete": "Bình Nguyễn Trọng",
+      "map": {
+        "id": "a18776821965",
+        "summary_polyline": "}xy`A_pzjSp@?x@DlA@fBJbA@FBDNFfA@x@ABSLk@Tq@`@IL?TJN~A~C?HIJoAv@MTYlD@LG^]bFSpB?RJXPFx@J`AFZ@^DrCTV@b@FbAFZHj@An@JbAHh@Hx@@|CRn@HpAJn@HV?LIFQLgBDM@_@D[DaAFSFEH?~@Jn@BHAHIA{@SoC^_FCUGIm@Mq@E{BUs@AMFCHGVKbBEPGDI@uAI_AIICIIAOJiADq@AIKOOIoGe@WGcAGWEc@@cBWk@@IBe@\\K@ICGEg@eAw@qACQ@Kr@c@l@WNKBIBYG{@Ae@?KGOUIOCa@AQCsAEO?iDK_AAGCCK",
+        "polyline": "izy`AutzjSCMB_@?gABc@AWDo@CECAKBELBb@CZAtACb@B`BEd@@XFHDBH@bABXAx@DlA@fBJbA@FBBJHjA@x@ABSLk@Tq@`@IL?TJN~A~C?HIJoAv@MTYlD@LG^]bFSpB?RJXPFx@J`AFZ@^DrCTV@b@FbAFZHj@An@JbAHh@Hx@@|CRn@HpAJn@HV?HEHK@ILgBDM@_@D[DaAFSFEH?~@Jn@BHAHIA{@SoC^_FCUCEIEg@Kq@E{BUs@AMFCHGVKbBEPGDI@uAI_AIICIIAOJiADq@AIKOOIoGe@WGcAGWEc@@cBWk@@IBe@\\K@ICGEg@eAw@qACQ@Kr@c@l@WRQ@I@SG{@Aq@CICEUIcAIqIUGIAIFWBm@Au@Bs@Cc@@]AY@q@ASBIHCDF?BEp@?`B@FFD",
+        "resource_state": 3
+      },
+      "polyline": "izy`AutzjSCMB_@?gABc@AWDo@CECAKBELBb@CZAtACb@B`BEd@@XFHDBH@bABXAx@DlA@fBJbA@FBBJHjA@x@ABSLk@Tq@`@IL?TJN~A~C?HIJoAv@MTYlD@LG^]bFSpB?RJXPFx@J`AFZ@^DrCTV@b@FbAFZHj@An@JbAHh@Hx@@|CRn@HpAJn@HV?HEHK@ILgBDM@_@D[DaAFSFEH?~@Jn@BHAHIA{@SoC^_FCUCEIEg@Kq@E{BUs@AMFCHGVKbBEPGDI@uAI_AIICIIAOJiADq@AIKOOIoGe@WGcAGWEc@@cBWk@@IBe@\\K@ICGEg@eAw@qACQ@Kr@c@l@WRQ@I@SG{@Aq@CICEUIcAIqIUGIAIFWBm@Au@Bs@Cc@@]AY@q@ASBIHCDF?BEp@?`B@FFD",
+      "photos": [
+        {
+          "media_type": null,
+          "caption": null
+        }
+      ],
+      "start_latlng": [
+        10.78709,
+        106.801559
+      ],
+      "end_latlng": [
+        10.787042,
+        106.801875
+      ],
+      "average_heartrate": 144.8,
+      "average_cadence": 88.5,
+      "average_watts": 209.7
+    },
+    {
+      "id": 18762695671,
+      "type": "Run",
+      "name": "Wed 🛞 175 ❤️‍🔥 140 🔥 225 🎯 10.65/42km Week 23 • Easy",
+      "distance": "4.0 km",
+      "distanceMeters": 4018.9,
+      "duration": "23:18",
+      "durationSeconds": 1398,
+      "pace": "5:47/km",
+      "date": "2026-06-02T22:31:24Z",
+      "elevation": "+3m",
+      "location": "N/A",
+      "athlete": "Bình Nguyễn Trọng",
+      "map": {
+        "id": "a18762695671",
+        "summary_polyline": null,
+        "polyline": "qzy`AeuzjSFMBm@AcBDk@EGG?GBAFAtAER@f@Cd@Bj@A|@Cd@@DH@DONuACs@BcAEcADs@ACGAG@CFApAEj@B^Ah@@XE~A?HDBFCNsA@m@C{@Bk@Co@Do@AIGCI@CBAL?p@BZGN?J@h@Cp@@j@GlA@FHBDMHe@FaAE_@Du@Ca@B_@CWDm@?EMCE?EF?V?fCCLBl@EV?j@Cb@DLFADQ?OH_@@_@Aw@D_AEaABw@KEGDCF?tAAL@t@E`@Bd@EdB@HB?DEDk@Jk@@MCa@Ba@C{BDg@GGEAGBAHArCGL@vBEj@FDFA@EHg@Dm@AM@[CKDa@Ci@BQCo@Di@CKGAI@EF@pAAf@@l@CZ@TChAEf@FHD?BGPiBG}@Bk@@q@C[Bm@EIC?C?EH?l@EhAHRPZBHA^BTN\\HZFHL?b@Qf@IHO[oAUw@MMK?jAxC?ACASk@CO[eAIMMCi@NKh@A`@@ZV~@HBJ@d@Qh@MDGCa@g@sAIYCCECK?m@NMj@Ar@Tx@JPND`AYJAFCBC@IIc@i@kAM]ICo@NMf@Ch@DXJTF\\DHTF\\O",
+        "resource_state": 3
+      },
+      "polyline": "qzy`AeuzjSFMBm@AcBDk@EGG?GBAFAtAER@f@Cd@Bj@A|@Cd@@DH@DONuACs@BcAEcADs@ACGAG@CFApAEj@B^Ah@@XE~A?HDBFCNsA@m@C{@Bk@Co@Do@AIGCI@CBAL?p@BZGN?J@h@Cp@@j@GlA@FHBDMHe@FaAE_@Du@Ca@B_@CWDm@?EMCE?EF?V?fCCLBl@EV?j@Cb@DLFADQ?OH_@@_@Aw@D_AEaABw@KEGDCF?tAAL@t@E`@Bd@EdB@HB?DEDk@Jk@@MCa@Ba@C{BDg@GGEAGBAHArCGL@vBEj@FDFA@EHg@Dm@AM@[CKDa@Ci@BQCo@Di@CKGAI@EF@pAAf@@l@CZ@TChAEf@FHD?BGPiBG}@Bk@@q@C[Bm@EIC?C?EH?l@EhAHRPZBHA^BTN\\HZFHL?b@Qf@IHO[oAUw@MMK?jAxC?ACASk@CO[eAIMMCi@NKh@A`@@ZV~@HBJ@d@Qh@MDGCa@g@sAIYCCECK?m@NMj@Ar@Tx@JPND`AYJAFCBC@IIc@i@kAM]ICo@NMf@Ch@DXJTF\\DHTF\\O",
+      "photos": [
+        {
+          "unique_id": "251A6065-B4A4-4409-B22F-3926B18CC3FA",
+          "urls": {
+            "100": "https://dgtzuqphqg23d.cloudfront.net/zismhMfKyFHuU0KL1Z156T2iz_5Do_iagR9Axb8xZtI-96x128.jpg",
+            "600": "https://dgtzuqphqg23d.cloudfront.net/zismhMfKyFHuU0KL1Z156T2iz_5Do_iagR9Axb8xZtI-576x768.jpg"
+          },
+          "source": 1,
+          "media_type": 1,
+          "caption": null
+        }
+      ],
+      "start_latlng": [],
+      "end_latlng": [],
+      "average_heartrate": 139.6,
+      "average_cadence": 87.3,
+      "average_watts": 215.9
+    },
+    {
+      "id": 18748503898,
+      "type": "Run",
+      "name": "Tue 🛞 177 ❤️‍🔥 139 🔥 286 🎯 6.63/42km Week 23 • Easy",
+      "distance": "5.0 km",
+      "distanceMeters": 5011.8,
+      "duration": "30:43",
+      "durationSeconds": 1843,
+      "pace": "6:07/km",
+      "date": "2026-06-01T22:29:12Z",
+      "elevation": "+5m",
+      "location": "N/A",
+      "athlete": "Bình Nguyễn Trọng",
+      "map": {
+        "id": "a18748503898",
+        "summary_polyline": null,
+        "polyline": "izy`A}tzjSDiAC]?gADc@CGGAC?EDEb@CfCBf@Cd@B`@CTGXDJHABEDu@Ly@?q@Eq@BSC{@Fi@EGI?GDANAv@CZ@dACXA\\BjACb@@FF?BGD]Di@BuADYC_@@e@Ck@Ba@AGECI@EDCb@ArA@l@CtABl@E^?DBBF?DSNiBCoDD_@AIGCK@EN?bAEb@B`@Ch@BVAl@@h@G`@BFFCBGLcABk@AqA@[Au@Bs@CGGCI@CPAdDC\\BLCt@BZI\\@BFDDCBKJ}@Bg@@u@CY?kBBa@EGGAIB?FAlCCd@CvA@TE^?DJFFGBILyAEuDFs@EGM@GHAl@B|@CH]Ig@Ca@B[Ai@@q@EI@?HD?t@ITBPAd@B|@?L@JDBDBNAl@@\\AjAE`@@FH@FI@WHo@AWB}BAm@@s@AIIEGBCT?l@ChA@ZEjA@n@Eb@?DHFHAAQPuAFADDNr@DFH@RCZOf@KBE?COe@a@eAIe@ICi@JIBIVGz@BRXbANDVC`@QXCJI?ICSc@iAMg@EIICo@NINARC@Cd@B\\FZJZLNJ?j@S^EFGBIGYWi@IYKi@GIMAi@JCDCRIRC|@N^DXDHJDXEXOb@EHG@C[_AOs@Ma@KGq@NKTCP@l@Dd@JVDXHBH?d@Qd@EHIEYM]AGGW[_AGEI?YFMFEFG^Eb@Lp@Nf@DFF@TEZMb@CDE@Ea@oACS",
+        "resource_state": 3
+      },
+      "polyline": "izy`A}tzjSDiAC]?gADc@CGGAC?EDEb@CfCBf@Cd@B`@CTGXDJHABEDu@Ly@?q@Eq@BSC{@Fi@EGI?GDANAv@CZ@dACXA\\BjACb@@FF?BGD]Di@BuADYC_@@e@Ck@Ba@AGECI@EDCb@ArA@l@CtABl@E^?DBBF?DSNiBCoDD_@AIGCK@EN?bAEb@B`@Ch@BVAl@@h@G`@BFFCBGLcABk@AqA@[Au@Bs@CGGCI@CPAdDC\\BLCt@BZI\\@BFDDCBKJ}@Bg@@u@CY?kBBa@EGGAIB?FAlCCd@CvA@TE^?DJFFGBILyAEuDFs@EGM@GHAl@B|@CH]Ig@Ca@B[Ai@@q@EI@?HD?t@ITBPAd@B|@?L@JDBDBNAl@@\\AjAE`@@FH@FI@WHo@AWB}BAm@@s@AIIEGBCT?l@ChA@ZEjA@n@Eb@?DHFHAAQPuAFADDNr@DFH@RCZOf@KBE?COe@a@eAIe@ICi@JIBIVGz@BRXbANDVC`@QXCJI?ICSc@iAMg@EIICo@NINARC@Cd@B\\FZJZLNJ?j@S^EFGBIGYWi@IYKi@GIMAi@JCDCRIRC|@N^DXDHJDXEXOb@EHG@C[_AOs@Ma@KGq@NKTCP@l@Dd@JVDXHBH?d@Qd@EHIEYM]AGGW[_AGEI?YFMFEFG^Eb@Lp@Nf@DFF@TEZMb@CDE@Ea@oACS",
+      "photos": [
+        {
+          "media_type": null,
+          "caption": null
+        }
+      ],
+      "start_latlng": [],
+      "end_latlng": [],
+      "average_heartrate": 139,
+      "average_cadence": 88.7,
+      "average_watts": 199.7
+    },
+    {
+      "id": 18735563725,
+      "type": "Run",
+      "name": "Mon 🛞 176 ❤️‍🔥 128 🔥 89 🎯 1.62/42km Week 23 • Easy",
+      "distance": "1.6 km",
+      "distanceMeters": 1616.2,
+      "duration": "12:28",
+      "durationSeconds": 748,
+      "pace": "7:42/km",
+      "date": "2026-05-31T22:41:36Z",
+      "elevation": "+2m",
+      "location": "N/A",
+      "athlete": "Bình Nguyễn Trọng",
+      "map": {
+        "id": "a18735563725",
+        "summary_polyline": null,
+        "polyline": "izy`AwtzjSCQD_@VOBODEVGLGFABBXnA\\r@CLGBo@J_@PEEUu@UW?[DOJOFSl@UFBPr@DXb@x@?HEDW?_@RWFEACEKa@]m@@c@NMDWf@QH?NVZjADRHN@FCDa@DWHULG?OWIi@SW?[BGTMBI?IFGd@OFHRx@d@fAAFIDq@LWLI?S_@ESS_@Be@NSDQVGPIHABB@HTv@\\z@BH?HCB}@L[JSs@Ya@?SBORQDSj@SDBBDNv@\\n@H\\EFOFk@JQDI?IK",
+        "resource_state": 3
+      },
+      "polyline": "izy`AwtzjSCQD_@VOBODEVGLGFABBXnA\\r@CLGBo@J_@PEEUu@UW?[DOJOFSl@UFBPr@DXb@x@?HEDW?_@RWFEACEKa@]m@@c@NMDWf@QH?NVZjADRHN@FCDa@DWHULG?OWIi@SW?[BGTMBI?IFGd@OFHRx@d@fAAFIDq@LWLI?S_@ESS_@Be@NSDQVGPIHABB@HTv@\\z@BH?HCB}@L[JSs@Ya@?SBORQDSj@SDBBDNv@\\n@H\\EFOFk@JQDI?IK",
+      "photos": [
+        {
+          "media_type": null,
+          "caption": null
+        }
+      ],
+      "start_latlng": [],
+      "end_latlng": [],
+      "average_heartrate": 128.5,
+      "average_cadence": 88.2,
+      "average_watts": 161.2
+    },
+    {
       "id": 18722440328,
       "type": "Run",
       "name": "Sun 🛞 180 ❤️‍🔥 150 🔥 1351 🎯 56.23/42km Week 22 • Long Run",
@@ -21846,29 +22194,29 @@
   ],
   "stats": {
     "week": {
-      "distance": "56.2",
-      "distanceMeters": 56232.700000000004,
-      "movingTime": "5:25:18",
-      "movingTimeSeconds": 19518,
-      "runCount": 7,
-      "activities": 7
+      "distance": "4.0",
+      "distanceMeters": 4013.6,
+      "movingTime": "23:25",
+      "movingTimeSeconds": 1405,
+      "runCount": 1,
+      "activities": 1
     },
     "month": {
-      "distance": "224.4",
-      "distanceMeters": 224392.20000000004,
-      "movingTime": "22:15:43",
-      "movingTimeSeconds": 80143,
-      "runCount": 32,
-      "activities": 32
+      "distance": "55.6",
+      "distanceMeters": 55555.9,
+      "movingTime": "5:16:44",
+      "movingTimeSeconds": 19004,
+      "runCount": 9,
+      "activities": 9
     },
     "year": {
-      "distance": "911.0",
-      "distanceMeters": 911002.9000000003,
-      "movingTime": "86:32:01",
-      "movingTimeSeconds": 311521,
-      "runCount": 147,
-      "activities": 147
+      "distance": "966.6",
+      "distanceMeters": 966558.8000000004,
+      "movingTime": "91:48:45",
+      "movingTimeSeconds": 330525,
+      "runCount": 156,
+      "activities": 156
     }
   },
-  "lastUpdated": "2026-05-31T09:36:18.649Z"
+  "lastUpdated": "2026-06-08T09:53:28.255Z"
 }
