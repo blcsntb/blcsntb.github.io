@@ -7,6 +7,76 @@
   },
   "activities": [
     {
+      "id": 18857595081,
+      "type": "Run",
+      "name": "Wed 🛞 176 ❤️‍🔥 143 🔥 209 🎯 12.04/42km Week 24 • Progression Run",
+      "distance": "4.0 km",
+      "distanceMeters": 4011,
+      "duration": "20:48",
+      "durationSeconds": 1248,
+      "pace": "5:11/km",
+      "date": "2026-06-09T22:40:41Z",
+      "elevation": "+4m",
+      "location": "N/A",
+      "athlete": "Bình Nguyễn Trọng",
+      "map": {
+        "id": "a18857595081",
+        "summary_polyline": "gxy`AepzjSnAF\\?\\B^Az@FZHT@HALEL@NBNJ@DHrBAL_@TiAd@QNEP@JBF\\l@`@z@b@n@DRAHCFoAr@GDGNQ`B[lFe@bF?^@FDHVFvBTh@BvBP|BTf@@d@H\\?z@FT?bBRn@@dALdAFfANbBH`@DF?NIFQJ{@LyAHiBHKJEjBRLCJS@OCaAI}@Io@RqBJaBC]GKKIq@KaAG_AMmAIKDCJIf@MfBMNK@iAMgAGOICK?MNiB?MEKSQuCU]Gc@Cg@IgAEu@K}@C{ASY?K@q@`@M?USq@uAg@w@AMDQhBcAJMIeCEIUM_@EaAAc@G}@AcBK_B?QEAG",
+        "polyline": "{yy`AwtzjSSDGLMhB@HHB`DL\\?\\B^Az@FZHT@HALEL@NBNJ@DHrBAL_@TiAd@QNEP@JBF\\l@`@z@b@n@DRAHCFoAr@GDGNQ`B[lFe@bF?^@FDHVFvBTh@BvBP|BTf@@d@H\\?z@FT?bBRn@@dALdAFfANbBH`@DF?NIFQJ{@LyAHiBHKJEjBRLCJS@UC{@I}@Io@RqBJaBC]GKKIq@KaAG_AMmAIKDCJIf@MfBMNK@iAMgAGOICK?MNiB?MEKSQuCU]Gc@Cg@IgAEu@K}@C{ASY?K@q@`@M?USq@uAg@w@AMDQhBcAJMIeCKMIEe@IaAAc@G}@AcBK_B?QEAG@IXaB@k@C_B@KCW?{@GGE?GDAF@ZCnA@d@E`@B^C\\@l@Gd@HDFCF_@HeA?cA",
+        "resource_state": 3
+      },
+      "polyline": "{yy`AwtzjSSDGLMhB@HHB`DL\\?\\B^Az@FZHT@HALEL@NBNJ@DHrBAL_@TiAd@QNEP@JBF\\l@`@z@b@n@DRAHCFoAr@GDGNQ`B[lFe@bF?^@FDHVFvBTh@BvBP|BTf@@d@H\\?z@FT?bBRn@@dALdAFfANbBH`@DF?NIFQJ{@LyAHiBHKJEjBRLCJS@UC{@I}@Io@RqBJaBC]GKKIq@KaAG_AMmAIKDCJIf@MfBMNK@iAMgAGOICK?MNiB?MEKSQuCU]Gc@Cg@IgAEu@K}@C{ASY?K@q@`@M?USq@uAg@w@AMDQhBcAJMIeCKMIEe@IaAAc@G}@AcBK_B?QEAG@IXaB@k@C_B@KCW?{@GGE?GDAF@ZCnA@d@E`@B^C\\@l@Gd@HDFCF_@HeA?cA",
+      "photos": [
+        {
+          "media_type": null,
+          "caption": null
+        }
+      ],
+      "start_latlng": [
+        10.787021,
+        106.801568
+      ],
+      "end_latlng": [
+        10.787076,
+        106.80184
+      ],
+      "average_heartrate": 142.9,
+      "average_cadence": 88,
+      "average_watts": 238.8
+    },
+    {
+      "id": 18843312077,
+      "type": "Run",
+      "name": "Tue 🛞 180 ❤️‍🔥 152 🔥 223 🎯 8.03/42km Week 24 • Progression Run",
+      "distance": "4.0 km",
+      "distanceMeters": 4011.7,
+      "duration": "20:42",
+      "durationSeconds": 1242,
+      "pace": "5:09/km",
+      "date": "2026-06-08T22:34:53Z",
+      "elevation": "+2m",
+      "location": "N/A",
+      "athlete": "Bình Nguyễn Trọng",
+      "map": {
+        "id": "a18843312077",
+        "summary_polyline": null,
+        "polyline": "{yy`AwtzjSGACQBe@HMBSh@UJAHFH^Hj@FZR\\@L?BG@_@VYJQ@EGa@eBDa@HIBUJIRIJ?HDV~@Ff@Tj@AFEBc@Ng@HEACAa@wA?MDe@D?BEBUJIXIHBDFf@~ABRHXAJkAXIAEEM[G]MU?ODc@DIAMBI^OPCLHJ^BTFTXv@?LABC?o@V_@HCAKWC]Qa@AKBi@JI@QJKVIJ?FFVfA\\x@BLCFID_AXK@EEWeAKS?]DOHG?S@Af@UH@T~@d@lA@FCFmA`@I?EEUy@Du@Ek@BKVMTED?HJ^~@TjACH]Pm@LM?Oc@I_@@cBHIJGRGL?Rh@f@lBAHsA\\GAQm@EW@{@AU?EHK`@QJALT`@~AJT@JEJm@T_@FIEKc@Ge@AuAJM^KH?JLJ\\FXZ`ABPCDYLw@PICM]ASC{@@o@FMZKJAD@DJn@xBBPo@Z_@JE?GGMe@CW?}@E_@BIHIRILCD@HF`@|ARl@AF{@ZSDIASo@CS@m@Ak@@MDCh@MHFJVl@nBCNQJgAVQo@GiA?k@FKHG^ILLL\\R~@Pj@CF]Li@NKAIUKo@@}@EYDKHGZGH?FLRn@DZ",
+        "resource_state": 3
+      },
+      "polyline": "{yy`AwtzjSGACQBe@HMBSh@UJAHFH^Hj@FZR\\@L?BG@_@VYJQ@EGa@eBDa@HIBUJIRIJ?HDV~@Ff@Tj@AFEBc@Ng@HEACAa@wA?MDe@D?BEBUJIXIHBDFf@~ABRHXAJkAXIAEEM[G]MU?ODc@DIAMBI^OPCLHJ^BTFTXv@?LABC?o@V_@HCAKWC]Qa@AKBi@JI@QJKVIJ?FFVfA\\x@BLCFID_AXK@EEWeAKS?]DOHG?S@Af@UH@T~@d@lA@FCFmA`@I?EEUy@Du@Ek@BKVMTED?HJ^~@TjACH]Pm@LM?Oc@I_@@cBHIJGRGL?Rh@f@lBAHsA\\GAQm@EW@{@AU?EHK`@QJALT`@~AJT@JEJm@T_@FIEKc@Ge@AuAJM^KH?JLJ\\FXZ`ABPCDYLw@PICM]ASC{@@o@FMZKJAD@DJn@xBBPo@Z_@JE?GGMe@CW?}@E_@BIHIRILCD@HF`@|ARl@AF{@ZSDIASo@CS@m@Ak@@MDCh@MHFJVl@nBCNQJgAVQo@GiA?k@FKHG^ILLL\\R~@Pj@CF]Li@NKAIUKo@@}@EYDKHGZGH?FLRn@DZ",
+      "photos": [
+        {
+          "media_type": null,
+          "caption": null
+        }
+      ],
+      "start_latlng": [],
+      "end_latlng": [],
+      "average_heartrate": 152.3,
+      "average_cadence": 90,
+      "average_watts": 240.4
+    },
+    {
       "id": 18830664705,
       "type": "Run",
       "name": "Mon 🛞 195 ❤️‍🔥 151 🔥 242 🎯 4.01/42km Week 24 • Easy",
@@ -22194,29 +22264,29 @@
   ],
   "stats": {
     "week": {
-      "distance": "4.0",
-      "distanceMeters": 4013.6,
-      "movingTime": "23:25",
-      "movingTimeSeconds": 1405,
-      "runCount": 1,
-      "activities": 1
+      "distance": "12.0",
+      "distanceMeters": 12036.3,
+      "movingTime": "1:04:55",
+      "movingTimeSeconds": 3895,
+      "runCount": 3,
+      "activities": 3
     },
     "month": {
-      "distance": "55.6",
-      "distanceMeters": 55555.9,
-      "movingTime": "5:16:44",
-      "movingTimeSeconds": 19004,
-      "runCount": 9,
-      "activities": 9
+      "distance": "63.6",
+      "distanceMeters": 63578.6,
+      "movingTime": "5:58:14",
+      "movingTimeSeconds": 21494,
+      "runCount": 11,
+      "activities": 11
     },
     "year": {
-      "distance": "966.6",
-      "distanceMeters": 966558.8000000004,
-      "movingTime": "91:48:45",
-      "movingTimeSeconds": 330525,
-      "runCount": 156,
-      "activities": 156
+      "distance": "974.6",
+      "distanceMeters": 974581.5000000003,
+      "movingTime": "92:30:15",
+      "movingTimeSeconds": 333015,
+      "runCount": 158,
+      "activities": 158
     }
   },
-  "lastUpdated": "2026-06-08T09:53:28.255Z"
+  "lastUpdated": "2026-06-10T05:54:14.396Z"
 }
