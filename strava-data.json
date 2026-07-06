@@ -1,10 +1,5 @@
 {
-  "athlete": {
-    "id": 36830595,
-    "name": "Bình Nguyễn Trọng",
-    "username": "blcsntb",
-    "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/36830595/26283237/5/large.jpg"
-  },
+  "athlete": null,
   "activities": [
     {
       "id": 19104334498,
@@ -22998,20 +22993,20 @@
   ],
   "stats": {
     "week": {
-      "distance": "3.5",
-      "distanceMeters": 3512.6,
-      "movingTime": "18:46",
-      "movingTimeSeconds": 1126,
-      "runCount": 1,
-      "activities": 1
+      "distance": "0.0",
+      "distanceMeters": 0,
+      "movingTime": "0:00",
+      "movingTimeSeconds": 0,
+      "runCount": 0,
+      "activities": 0
     },
     "month": {
-      "distance": "183.5",
-      "distanceMeters": 183493.2,
-      "movingTime": "16:43:38",
-      "movingTimeSeconds": 60218,
-      "runCount": 30,
-      "activities": 30
+      "distance": "0.0",
+      "distanceMeters": 0,
+      "movingTime": "0:00",
+      "movingTimeSeconds": 0,
+      "runCount": 0,
+      "activities": 0
     },
     "year": {
       "distance": "1094.5",
@@ -23022,5 +23017,5 @@
       "activities": 177
     }
   },
-  "lastUpdated": "2026-06-29T14:11:16.604Z"
+  "lastUpdated": "2026-07-06T22:07:14.141Z"
 }
